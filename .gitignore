@@ -4,3 +4,5 @@
 3B/model/
 3C/data/
 3C/diffusion_model.pt
+3C/training_curve.png
+3C/denoise.png
