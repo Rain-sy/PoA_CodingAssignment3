@@ -1,5 +1,6 @@
-3A/images.npy/
+3A/images.npy
 3B/__pycache__/
 3B/data/
 3B/model/
 3C/data/
+3C/diffusion_model.pt
